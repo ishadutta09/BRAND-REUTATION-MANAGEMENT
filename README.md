@@ -12,7 +12,9 @@
 
 **MENTOR NAME**: NEELA SANTHOSH 
 
+As part of my final internship completion project, I was assigned to develop a documented strategy to monitor and manage a brand’s online reputation. The objective is to address negative reviews effectively, encourage and amplify positive sentiment, and ensure consistent brand perception across digital platforms. 
 
+This task involved identifying appropriate listening and management tools, outlining response protocols, developing engagement tactics, and ensuring reputation tracking through performance metrics. 
 
 # OUTPUT OF THE TASK 
-https://1drv.ms/w/c/50875a0339b60e29/Eb7zZ2IVHvxEiKACSf6J-rYBzxfeiFvUQfn81ScmOcZJPQ?e=CI5Ij3
+https://1drv.ms/w/c/50875a0339b60e29/EQjOvNnUy49Lu0ThVrOIUOgB700XadTjmeMyLBGaArGmiw?e=PiXiob
